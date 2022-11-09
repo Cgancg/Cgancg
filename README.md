@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=fff"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=fff">
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Cgancg&count_private=true&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CGANCG&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CGANCG&show_icons=true&theme=radical)
 
