@@ -1,5 +1,7 @@
 ### Hi there 👋🏻
 
+- 🔭 I’m currently working on React Projects
+- ⚡ Fun fact: The world is my Oyster !
 <!--
 **Cgancg/Cgancg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,9 +14,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...‘The world is your oyster’
 -->
-<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=fff"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=fff">
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=fff"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=fff"> <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=fff">  
 
 ![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Cgancg&count_private=true&show_icons=true&theme=radical)
 ![Top Lanugages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CGANCG&show_icons=true&theme=radical)
