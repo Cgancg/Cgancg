@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...‘The world is your oyster’
 -->
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=fff"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=fff"> <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=fff">  
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=fff"> <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=fff">  <img src="https://img.shields.io/badge/-REACT-61DAFB?logo=React&logoColor=fff"> 
 
 ![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Cgancg&count_private=true&show_icons=true&theme=radical)
 ![Top Lanugages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CGANCG&show_icons=true&theme=radical)
